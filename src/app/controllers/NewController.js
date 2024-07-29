@@ -1,5 +1,4 @@
 class NewControllers {
-
     // [GET] /new
     index(req, res) {
         res.render('news');
